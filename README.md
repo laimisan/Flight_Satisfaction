@@ -9,3 +9,5 @@ In this project I:
 - identify passenger groups most likely to be dissatisfied
 - identify aspects related to dissatisfaction
 - provide recommendations for satisfaction improvement based on insights gained
+
+For more info about the project please visit https://laimisandrijauskas.com/flight%20satisfaction.html
